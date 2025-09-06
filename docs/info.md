@@ -13,7 +13,9 @@ Simple 2 stage CMOS Op Amp with Miller compensation.
 
 ## How to test
 
-Explain how to use your project
+Feed a current to Ibias.
+The op amp needs a DC power supply of +1.8V to work
+The differential inputs are V+ and V-, while the output of the op amp is Vout.
 
 ## External hardware
 
