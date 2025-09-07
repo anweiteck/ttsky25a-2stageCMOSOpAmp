@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_2stageCMOSOpAmp (
+module tt_um_anweiteck_2stageCMOSOpAmp (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
