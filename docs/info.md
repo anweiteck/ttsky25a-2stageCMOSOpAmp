@@ -17,6 +17,8 @@ Feed a current of 8uA to Ibias.
 The op amp needs a DC power supply of +1.8V to work
 The differential inputs are V+ and V-, while the output of the op amp is Vout.
 
+note that C2 in the schematic is an external capacitor that needs to be connected to the output of the Vout of the op amp. 
+
 ## External hardware
 
 No external hardware requried
